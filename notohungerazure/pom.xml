@@ -64,7 +64,7 @@
             <deployment>
               <resources>
                 <resource>
-                  <directory>${project.basedir}/notohungerazure</directory>
+                  <directory>${project.basedir}</directory>
                   <includes>
                     <include>*.jar</include>
                   </includes>
