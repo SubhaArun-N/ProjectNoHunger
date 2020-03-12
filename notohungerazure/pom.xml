@@ -64,7 +64,7 @@
             <deployment>
               <resources>
                 <resource>
-                  <directory>${project.basedir}</directory>
+                  <directory>${project.basedir}/target</directory>
                   <includes>
                     <include>*.jar</include>
                   </includes>
