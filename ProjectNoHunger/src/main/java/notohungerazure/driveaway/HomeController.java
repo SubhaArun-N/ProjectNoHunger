@@ -24,7 +24,7 @@ import notohungerazure.driveaway.models.Request;
 
 
 @RestController
-@CrossOrigin(origins="*")
+@CrossOrigin(origins="https://nohunger.azurewebsites.net/no-hunger")
 @RequestMapping(path = "no-hunger")
 public class HomeController {
 	
